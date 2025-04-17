@@ -1,5 +1,34 @@
 ## Hi there 👋
 
+<h1 align="center">Hi there, I'm Florian 👋</h1>
+
+<p align="center">
+  <strong>TypeScript Lover | Next.js Explorer | Code Enthusiast</strong><br />
+  Currently learning and building cool things with modern web tech.
+</p>
+
+---
+
+### 🚀 Tech Stack
+- ⚙️ &nbsp;Languages: `TypeScript`, `JavaScript`, `Java`, `HTML`, `CSS`
+- 🌐 &nbsp;Frontend: `Next.js`, `React`, `TailwindCSS`
+- 🗄 &nbsp;Backend: `Node.js`, `Payload CMS`, `PostgreSQL`
+- ⚙️ &nbsp;Tools: `Git`, `Docker`, `VSCode`, `Figma`
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FloCodin&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FloCodin&theme=radical" width="48%" />
+</p>
+
+---
+
+### 📫 How to reach me:
+- 📧 &nbsp;florian.rogenmoser@codin.ch
+- 🌍 &nbsp;[GitHub](https://github.com/FloCodin)
+
 <!--
 **FloCodin/FloCodin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

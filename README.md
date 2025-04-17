@@ -12,8 +12,8 @@
 ### 🚀 Tech Stack
 - ⚙️ &nbsp;Languages: `TypeScript`, `JavaScript`, `Java`, `HTML`, `CSS`
 - 🌐 &nbsp;Frontend: `Next.js`, `React`, `TailwindCSS`
-- 🗄 &nbsp;Backend: `Node.js`, `Payload CMS`, `PostgreSQL`
-- ⚙️ &nbsp;Tools: `Git`, `Docker`, `VSCode`, `Figma`
+- 🗄 &nbsp;Backend: `Node.js`, `Payload CMS`, `PostgreSQL`,`Prisma`,`Zustand`
+- ⚙️ &nbsp;Tools: `Git`, `Docker`, `IntelliJ Ultimate`, `Figma`
 
 ---
 
